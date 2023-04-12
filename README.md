@@ -9,7 +9,7 @@ This repository contains a collection of Python scripts that perform various tas
 - Visualize concentrated geolocation data using heatmaps  
 - Train a Long Short-Term Memory (LSTM) network to detect bank card numbers in SMS messages  
 ## Requirements  
-- Python 3.6 or higher  
+- [Python 3.6](https://www.python.org/downloads/) or higher  
 - TensorFlow  
 - Keras  
 - OpenAI  
